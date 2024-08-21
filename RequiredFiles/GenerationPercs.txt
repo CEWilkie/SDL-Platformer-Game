@@ -1,0 +1,15 @@
+# [#] or [ ] beginning lines are not red by program, serve as comments / buffer for readability
+# Generation of track consists of Long [9-6], Medium [5-4], Short [3-2], Single [1] Tile length track segment + Jumps.
+# structure as :
+# Difficulty, min%:max%:minLen:maxLen, ... [for each segment type (L, M, Sh, Si)]
+# the % rates of the tracks are generated from min% <= r < max% where r is a randomly generated value from 0-99
+
+#   long      medium      short     single     jump         obstacle
+
+0, 0:60:7:9:, 60:90:4:6:, 90:100:2:3:, 0:0:1:1:, 0:10:2:4:, 0:3:0:8:, end
+1, 0:45:7:9:, 45:80:4:6:, 80:100:2:3:, 0:0:1:1:, 0:20:2:6:, 0:4:0:8:, end
+2, 0:25:7:9:, 25:55:4:6:, 55:85:2:3:, 85:100:1:1:, 0:40:3:8:, 0:4:0:10:, end
+3, 0:25:7:9:, 25:50:4:6:, 50:75:2:3:, 75:100:1:1:, 0:60:3:14:, 0:5:0:10:, end
+4, 0:10:7:9:, 10:30:4:6:, 30:60:2:3:, 60:100:1:1:, 0:80:2:14:, 0:5:0:15:, end
+5, 0:0:7:9:, 0:15:4:6:, 15:60:2:3:, 60:100:1:1:, 0:100:5:14:, 0:6:0:15:, end
+6, 0:0:7:9:, 0:0:4:6:, 0:30:2:3:, 30:100:1:1:, 0:100:5:14:, 0:0:0:5:, end
