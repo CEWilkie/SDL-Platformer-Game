@@ -7,3 +7,12 @@ with an extra life! Furthermore, checkpoints appear during the level, which the 
 Level generation is initially tested to be achievable by the player, however coins, collectables and obstacle generation is not put under any feasability constraints - so this can cause some issues.
 
 This game is largely based upon Stardew Valley's arcade game "Junimo Kart", and more specifically its endless mode. This was made for my c++ programming project during my first year at uni.
+
+Linked below (click on the image) is a YouTube upload of gameplay
+footage from this project. 
+
+[![GameplayFootage](Testing Images and Clips/YoutubeLinkImg.png)](https://youtu.be/RQtewUR1yzQ)
+
+if that doesnt work, you can visit it through this link instead:
+https://youtu.be/RQtewUR1yzQ.
+
