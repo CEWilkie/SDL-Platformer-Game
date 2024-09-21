@@ -11,7 +11,7 @@ This game is largely based upon Stardew Valley's arcade game "Junimo Kart", and 
 Linked below (click on the image) is a YouTube upload of gameplay
 footage from this project. 
 
-[![GameplayFootage](Testing Images and Clips/YoutubeLinkImg.png)](https://youtu.be/RQtewUR1yzQ)
+[![GameplayFootage](Testing%20Images%20and%20Clips/YoutubeLinkImg.png)](https://youtu.be/RQtewUR1yzQ)
 
 if that doesnt work, you can visit it through this link instead:
 https://youtu.be/RQtewUR1yzQ.
